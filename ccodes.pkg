@@ -1,0 +1,8 @@
+v 3
+d ccodes. convert country codes or country names.
+d Marius Radean (University of Essex) and Andreas Beger (Predictive Heuristics)
+d Distribution-Date: 21aug2018
+f ccodes.ado
+f ccodes.sthlp
+f csets.txt
+f ccodes_example.dta
